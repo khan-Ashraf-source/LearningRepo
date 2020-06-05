@@ -1,1 +1,9 @@
 this is 2nd file after adding temp.txt(git add temp.txt)
+
+
+
+after committing 2temp.txt
+
+
+
+just after adding the 2nd line here i added this file in stagging area( git add 2temp.txt) and removing it from stagging area to add this 3rd statement( git rm --cached 2temp.txt)
